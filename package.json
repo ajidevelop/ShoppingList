@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list for desktop app",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajidevelop/ShoppingList.git"
+  },
+  "author": "Loba Ajisafe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajidevelop/ShoppingList/issues"
+  },
+  "homepage": "https://github.com/ajidevelop/ShoppingList#readme",
+  "dependencies": {
+    "electron": "^4.0.8"
+  }
+}
